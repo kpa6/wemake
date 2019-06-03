@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "testservice-9bd8c",
+    "public": "public",
+    "source": "**",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

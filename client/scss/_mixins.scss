@@ -1,0 +1,12 @@
+// This file contains useful mixins that are used
+// in other places in the project.
+
+@mixin centered {
+  text-align: center;
+}
+
+@mixin dotted {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
